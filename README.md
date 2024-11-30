@@ -1,11 +1,20 @@
-👋 Hi, I’m @bhoomish-v-a
-👀 I’m interested in web development, full-stack programming, and building innovative solutions for real-world problems.
-🌱 I’m currently learning advanced concepts in Python, React, and cloud computing.
-💞️ I’m looking to collaborate on open-source web applications, machine learning projects, and backend development.
-📫 How to reach me: You can email me at vabhoomish@gmail.com or connect with me on LinkedIn.
-😄 Pronouns: he
-⚡ Fun fact: I’m passionate about automating everyday tasks through code!
-<!---
-bhoomish-v-a/bhoomish-v-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I'm @bhoomish-v-a 👋
+
+## 👀 About Me
+I'm a passionate web developer and full-stack programmer with a keen interest in building innovative solutions. Currently, I'm diving deeper into Python, React, and cloud computing. I love collaborating on open-source projects, especially those related to backend development and machine learning.
+
+## 🌱 Currently Learning
+- MERN stack
+- Wordpress
+- Cloud Computing (AWS)
+
+## 💞️ Looking to Collaborate On
+- Open-source web applications
+- Backend development
+
+## 📫 How to Reach Me
+- Email: vabhoomish@gmail.com
+- LinkedIn: [Bhoomish V A](https://www.linkedin.com/in/bhoomish-va/)
+
+## ⚡ Fun Fact
+I'm passionate about automating everyday tasks with code!
