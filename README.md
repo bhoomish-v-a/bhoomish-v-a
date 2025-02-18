@@ -37,7 +37,7 @@ I’m passionate about automating everyday tasks through code, and I love contri
 ---
 
 ## 🔥 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomish-v-a?theme=dark)](https://leetcode.com/bhoomish-v-a/)
+![](https://leetcard.jacoblin.cool/bhoomish-v-a?ext=activity)
 
 ---
 
