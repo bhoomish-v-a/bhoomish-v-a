@@ -29,8 +29,15 @@ I’m passionate about automating everyday tasks through code, and I love contri
 - **Database Management**: PostgreSQL, MySQL
 - **Developer Tools**: VS Code, GitHub, XAMPP, PgAdmin, Docker
 
+---
 
 ## 📈 GitHub Stats
 [![Bhoomish's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoomish-v-a&show_icons=true)](https://github.com/bhoomish-v-a)
 
 ---
+
+## 🔥 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bhoomish-v-a?theme=dark)](https://leetcode.com/bhoomish-v-a/)
+
+---
+
